@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm NavaPrabhas!
 
-<!--
-**Navaprabhas/Navaprabhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI & ML @MREC ▫️ AI Generalist
 
-Here are some ideas to get you started:
+AI Generalist and Tech Enthusiast passionate about exploring how intelligent systems can simplify human problems. My interests span across AI, Trading and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+**Malla Reddy Engineering College**  
+Bachelor of Technology - BTech, AI & ML  
+*Nov 2021 - May 2025* | Grade: A
+
+**Sri Chaitanya College of Education**  
+TSBIE, MPC  
+*Mar 2019 - Nov 2021* | Grade: A
+
+---
+
+## 🏆 Certifications
+
+- **Cyber Job Simulation** - Deloitte (Oct 2025)
+- **Generative AI Mastermind** - Outskill (Oct 2025)
+- And 6 more certifications
+
+---
+
+## 💡 Key Skills
+
+- Artificial Intelligence
+- Large Language Models (LLM)
+- Prompt Engineering
+- Derivatives Trading
+- Equity Trading
+
+---
+
+## 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaprabhas/)
+
+---
+
+### 📍 Location: Hyderabad, India
