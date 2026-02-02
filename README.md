@@ -1,113 +1,94 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=NavaPrabhas&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+# Nava Prabhas
 
-<div align="center">
-  <img src="https://github.com/Navaprabhas.png" alt="NavaPrabhas Logo" width="150" height="150" style="border-radius: 50%;">
-  
-  ### Connect with me:
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaprabhas/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabhas.ft/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddameedinavaprabhas2002@gmail.com)
-</div>
+AI Engineer specializing in LLMs, Agentic AI, and intelligent systems architecture.
 
-# Hi there 👋, I'm NavaPrabhas!
-
-## AI & ML @MREC ▫️ AI Generalist
-
-AI Generalist and Tech Enthusiast passionate about exploring how intelligent systems can simplify human problems. My interests span across AI, Trading and emerging technologies.
+📍 Hyderabad, India  
+📧 gaddameedinavaprabhas2002@gmail.com  
+🔗 [linkedin.com/in/navaprabhas](https://www.linkedin.com/in/navaprabhas/)
 
 ---
 
-## 🎓 Education
+## About
 
-**Malla Reddy Engineering College**  
-Bachelor of Technology - BTech, AI & ML  
-*Nov 2021 - May 2025* | Grade: A
+I design and build production-grade AI systems using Large Language Models and modern architectures. My work focuses on creating intelligent solutions that bridge cutting-edge research with real-world applications.
 
-**Sri Chaitanya College of Education**  
-TSBIE, MPC  
-*Mar 2019 - Nov 2021* | Grade: A
+**Core expertise:** RAG systems, AI agents, Model Context Protocol, fine-tuning, and advanced LLM integrations.
 
 ---
 
-## 🏆 Certifications
+## What I Build
 
-- **Cyber Job Simulation** - Deloitte (Oct 2025)
-- **Generative AI Mastermind** - Outskill (Oct 2025)
-- And 6 more certifications
+**Intelligent AI Systems**  
+End-to-end solutions with RAG pipelines, autonomous agents, and LLM-powered applications
 
----
+**Advanced Integrations**  
+Production systems using Claude, GPT, DeepSeek R1, Llama, and open-source models
 
-## 🚀 Tech Stack
+**Custom Model Development**  
+Fine-tuning and optimization for specific domains, tones, and use cases
 
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend & Styling
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+**Agentic Architectures**  
+Autonomous systems with reasoning, planning, and multi-tool capabilities
 
 ---
 
-## 🔨 Currently Building
+## Tech Stack
 
-🤖 **AI Projects & Experiments**
+**AI & ML**  
+Python • TensorFlow • LangChain • LlamaIndex • Prompt Engineering
 
-- Building intelligent trading bots combining market data analysis with ML models
-- Experimenting with LangChain for advanced conversational AI applications
-- Developing automation tools for market analysis and decision-making
+**LLM Platforms**  
+Claude • GPT • DeepSeek • Llama • Open-source Models
 
-📚 **Learning & Growth**
+**Development**  
+TypeScript • JavaScript • React • Tailwind CSS
 
-- Expanding expertise in Large Language Models (LLMs) and prompt engineering
-- Diving deeper into algorithmic trading strategies and quantitative analysis
-- Exploring real-time data processing and market automation systems
-- Mastering advanced ML deployment pipelines and MLOps practices
-
-🎯 **Goals**
-
-- Create production-ready AI solutions that solve real-world problems
-- Contribute to open-source AI and trading automation projects
-- Share knowledge through technical writing and community engagement
+**Infrastructure**  
+Vector Databases • MLOps • Git • Cloud Platforms
 
 ---
 
-## 💡 Story & Motivation
+## Recent Work
 
-My journey in AI began with a simple fascination: what if machines could not just compute, but truly understand and solve complex human problems? This curiosity evolved into a passion for building intelligent systems that bridge the gap between cutting-edge technology and real-world applications. I believe in the power of sharing knowledge and collaborating with others to push the boundaries of what's possible with AI.
-
----
-
-## 🌐 Social & Content Links
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navaprabhas/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prabhas.ft/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaddameedinavaprabhas2002@gmail.com)
-
-💬 Feel free to reach out for collaborations, discussions about AI/ML, or just to connect!
-
-</div>
+• MCP server integration for local file system operations with Claude  
+• DeepSeek R1 fine-tuning for domain-specific applications  
+• Production RAG systems with multi-stage retrieval  
+• Autonomous AI agents for workflow automation
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+## Experience
+
+**Trading Analyst** — Zetheta Algorithms  
+Jan 2026 - Present
+
+**AI/ML Intern** — CodeAlpha  
+Jan 2026 - Present
+
+**Machine Learning Intern** — CodSoft  
+Jan 2026 - Present
+
+**Prompt Engineer** — Future Interns  
+Jan 2026
+
+---
+
+## Education
+
+**B.Tech in AI & Machine Learning**  
+Malla Reddy Engineering College  
+2021 - 2025
+
+---
+
+## Currently
+
+Building intelligent trading systems, exploring agentic workflows, and expanding expertise in advanced LLM architectures and deployment patterns.
+
+**Open to:** AI Engineer, ML Engineer, LLM Engineer, Gen AI roles
+
+---
+
+💬 Open to collaborations on AI projects and technical discussions
+
+[Email](mailto:gaddameedinavaprabhas2002@gmail.com) • [LinkedIn](https://www.linkedin.com/in/navaprabhas/)
