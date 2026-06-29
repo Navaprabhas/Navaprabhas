@@ -4,9 +4,9 @@ AI Engineer & AI Automation Engineer building production-ready AI applications w
 
 📍 Hyderabad, India
 
-🌐 Portfolio: https://gnavaprabhas.vercel.app/
-🤗 Hugging Face: https://huggingface.co/Navaprabhas/spaces
-💼 LinkedIn: https://www.linkedin.com/in/navaprabhas/
+  https://gnavaprabhas.vercel.app/
+  https://huggingface.co/Navaprabhas/spaces
+  https://www.linkedin.com/in/navaprabhas/
 
 ---
 
