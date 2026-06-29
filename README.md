@@ -1,24 +1,27 @@
 # Hi, I'm Nava Prabhas 👋
 
-AI Engineer focused on building production-ready AI applications with LLMs, RAG, and AI Agents.
+AI Engineer & AI Automation Engineer building production-ready AI applications with LLMs, RAG, AI Agents, and intelligent automation.
 
-📍 Hyderabad, India  
-🌐 https://gnavaprabhas.vercel.app  
-💼 https://linkedin.com/in/navaprabhas
+📍 Hyderabad, India
+
+🌐 Portfolio: https://gnavaprabhas.vercel.app/
+🤗 Hugging Face: https://huggingface.co/Navaprabhas/spaces
+💼 LinkedIn: https://www.linkedin.com/in/navaprabhas/
 
 ---
 
 ## 🚀 About Me
 
-I build intelligent AI systems that solve real-world problems using modern LLM architectures.
+I build scalable AI systems that combine Large Language Models, AI Agents, Retrieval-Augmented Generation (RAG), and workflow automation to solve real-world business problems.
 
-**Interested in**
+### Interests
+
 - AI Agents
-- Retrieval-Augmented Generation (RAG)
 - LLM Applications
-- Fine-tuning
-- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Fine-Tuning (LoRA & QLoRA)
 - AI Automation
+- Model Context Protocol (MCP)
 
 ---
 
@@ -28,44 +31,52 @@ I build intelligent AI systems that solve real-world problems using modern LLM a
 - Python
 - TypeScript
 - JavaScript
+- SQL
 
-**AI**
+**AI & GenAI**
 - LangChain
 - LlamaIndex
-- TensorFlow
-- Prompt Engineering
+- Transformers
+- PyTorch
+- Hugging Face
+- Ollama
 
 **Models**
 - GPT
 - Claude
+- Gemini
+- DeepSeek
 - Qwen
 - Llama
-- DeepSeek
 
-**Tools**
-- Git
-- Vector Databases
-- Docker
-- Cloud Platforms
+**Automation**
+- n8n
+- Make
+- Zapier
+- FastAPI
+
+**Databases**
+- Pinecone
+- ChromaDB
+- FAISS
 
 ---
 
-## 📌 Currently Working On
+## 📌 Currently Building
 
 - AI Agents
 - Production RAG Systems
-- Local LLM Applications
-- Intelligent Automation
+- LLM Applications
+- AI Automation Workflows
+- Local AI Solutions
 
 ---
 
-## 🎯 Open To
+## 💼 Open To
 
 - AI Engineer
-- LLM Engineer
+- AI Automation Engineer
 - GenAI Engineer
-- Machine Learning Engineer
+- LLM Engineer
 
----
-
-⭐ Always building, learning, and sharing AI projects.
+⭐ Building AI that solves real-world problems.
