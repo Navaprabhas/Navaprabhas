@@ -1,6 +1,3 @@
-Here is a clean, scannable version of your GitHub README. The links have been formatted into a vertical list to ensure they stack step-by-step and are hyperlinked for a much cleaner look.
-
----
 
 # Hi, I'm Nava Prabhas 👋
 
