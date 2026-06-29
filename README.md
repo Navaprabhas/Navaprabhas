@@ -68,7 +68,6 @@ I build scalable AI systems that combine Large Language Models, AI Agents, Retri
 - Production RAG Systems
 - LLM Applications
 - AI Automation Workflows
-- Local AI Solutions
 
 ---
 
