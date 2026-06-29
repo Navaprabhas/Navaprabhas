@@ -5,8 +5,7 @@ AI Engineer specializing in LLMs, Agentic AI, and intelligent systems architectu
 📍 Hyderabad, India  
 📧 gaddameedinavaprabhas2002@gmail.com  
 🔗 [linkedin.com/in/navaprabhas](https://www.linkedin.com/in/navaprabhas/)
-
-🌐 (https://gnavaprabhas.vercel.app/)
+🌐 [https://gnavaprabhas.vercel.app/]
 ---
 
 ## About
